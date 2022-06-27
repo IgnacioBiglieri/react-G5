@@ -22,7 +22,6 @@ function Chart() {
                         <thead>
                             <tr>
                                 <th>Product</th>
-                                <th>Brand</th>
                                 <th>Price</th>
                                 <th>Category</th>
                             </tr>

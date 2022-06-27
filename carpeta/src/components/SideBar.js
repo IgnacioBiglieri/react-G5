@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '../assets/images/logo-w.png'
+import image from '../assets/images/Tierra-Mate2.png'
 import ContentWrapper from './ContentWrapper'
 import Catalog from './Catalog'
 import LastProduct from './LastProduct'
@@ -44,7 +44,7 @@ function SideBar() {
           href="/"
         >
           <div className="sidebar-brand-icon">
-            <img className="w-100" src={image} alt="Sport Shoes" />
+            <img className="w-100" src={image} alt="Tierra Mate" />
           </div>
         </a>
 
@@ -55,7 +55,7 @@ function SideBar() {
         <li className="nav-item active">
           <Link className="nav-link" to="/">
             <i className="fas fa-fw fa-tachometer-alt"></i>
-            <span>Dashboard - Sport Shoes</span>
+            <span>Dashboard - Tierra Mate</span>
           </Link>
         </li>
 

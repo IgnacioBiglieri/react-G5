@@ -16,9 +16,9 @@ function Catalog({ products = [] }) {
               <p className="card-text">
                 <strong>Price</strong> $ {product.price}
               </p>
-              <p className="card-text">
+              {/* <p className="card-text">
                 <strong>Brand</strong> {product.brand}
-              </p>
+              </p> */}
             </div>
           </div>
         ))}

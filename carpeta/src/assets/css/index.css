@@ -1,6 +1,6 @@
 
 .fondo-sidebar{
-  background-color:#053742;
+  background-color:#bac34e;
 }
 
 
@@ -22,13 +22,13 @@ h5.card-title {
 
 
 .card-body {
-  background-color: rgb(214, 214, 214);
+  background-color: white;
   font-weight: bold;
   color: black;
 }
 
 .contenedor-catalog {
- background: url(../images/background.jpg);
+ background: url(../images/foto-fondo.jpeg);
  background-size:contain;
  display: flex;
  width: 100%;

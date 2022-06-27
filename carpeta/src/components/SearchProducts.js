@@ -41,7 +41,7 @@ function SearchProducts() {
                     type="text"
                     className="form-control"
                     ref={keyword}
-                    placeholder="Adidas"
+                    placeholder="Yerba"
                   />
                 </div>
                 <button className="btn btn-info">Search</button>

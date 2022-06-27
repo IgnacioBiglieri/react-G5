@@ -42,14 +42,14 @@
     }
     /* <!-- Actors quantity --> */
 
-    let CategoryCount = {
+  /*   let CategoryCount = {
       title: 'Total of Categories',
       color: 'warning',
-      cuantity: products.countByCategory?.length || 2, //! agregar total de categorías products.countByCategory.length
+      cuantity: products.countByCategory?.length || 4, //! agregar total de categorías products.countByCategory.length
       icon: 'fas fa-restroom',
-    }
+    } */
 
-  let cartProps = [productCount, userCount, CategoryCount]
+  let cartProps = [productCount, userCount, /* CategoryCount */]
 
   console.log(/* prods.countByCategory.length */)
 
