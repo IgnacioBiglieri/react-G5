@@ -24,7 +24,7 @@ function SaleProduct(){
         <div className="col-lg-6 mb-4">
             <div className="card shadow mb-4">
                 <div className="card-header py-3 card-prodSelect" >
-                    <h5 className="m-0 font-weight-bold text-gray-800">Sale Product: {sale?.name || "loading..."}</h5>
+                    <h5 className="m-0 font-weight-bold text-gray-800">Producto con precio mas bajo: {sale?.name || "loading..."}</h5>
                 </div>
                 <div className="card-body">
                     <div className="text-center">
